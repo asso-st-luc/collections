@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le tableau du choeur on La collection de l&#39;association Saint Luc Images</title>
-    <link>http://localhost:1313/collections/le-tableau-de-choeur/</link>
-    <description>Recent content in Le tableau du choeur on La collection de l&#39;association Saint Luc Images</description>
+    <title>La collection de l&#39;association Saint Luc Images</title>
+    <link>http://localhost:1313/collections/</link>
+    <description>Recent content on La collection de l&#39;association Saint Luc Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Association Saint Luc Images</copyright>
     <lastBuildDate>Fri, 31 May 2024 10:16:45 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/collections/le-tableau-de-choeur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Tableau</title>
       <link>http://localhost:1313/collections/le-tableau-de-choeur/01-le-tableau/</link>
