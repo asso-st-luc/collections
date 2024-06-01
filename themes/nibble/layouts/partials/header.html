@@ -1,0 +1,5 @@
+<h1>{{ if .IsHome }}{{ site.Title }}{{ else }}<a href="{{ site.Home.RelPermalink }}">{{ printf "%s"  .CurrentSection.Title }}</a>{{ end }}</h1>
+
+
+
+<!--{{ partial "menu.html" (dict "menuID" "main" "page" .) }}-->

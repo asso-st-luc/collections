@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range site.Sections }}
+    <h2>{{ .LinkTitle }}</h2>
+    {{ range .Pages.Limit 1 }}
+    <a href="{{ .RelPermalink }}">{{ .Summary }}</a>
+    <!--
+      {{.Weight}}
+    -->
+    {{ end }}
+  {{ end }}
+  <!--
+  <hr>
+  <p>template home.html</p>
+  <p>Type : {{ .Page.Type }}</p>
+  <p>Kind : {{.Page.Kind}}</p>
+  <p>file : {{.Page.File}}</p>
+  <p>BundleType : {{.Page.BundleType}}</p>
+  <p>site.sections : {{.Site.Sections}}</p>
+-->
+  
+{{ end }}

@@ -1,0 +1,28 @@
+
+{{ define "main" }}
+    
+   <h1>{{ .Title }}</h1>
+    {{with .NextInSection}}
+        <a href="{{ .RelPermalink }}">Précédent</a>
+    {{end}} 
+    <p>
+    {{ range .Resources.ByType "image" }}
+    <img src="{{ .RelPermalink }}"  alt="{{ .Title }}" />
+    {{ end }}
+    </p>
+    {{ .Content }}
+    {{with .PrevInSection}}
+    <a href="{{ .RelPermalink }}">Suivant</a>
+    {{end}}
+    
+    
+    <!--{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}-->
+<!--
+    <p>template Single.html</p>
+    <p>Type : {{ .Page.Type }}</p>
+    <p>Kind : {{.Page.Kind}}</p>
+    <p>file : {{.Page.File}}</p>
+    <p>BundleType : {{.Page.BundleType}}</p>
+    <p>resource : {{.Page.Resources}}</p>
+-->
+{{ end }}

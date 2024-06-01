@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "La collection de l'association Saint Luc Images"
+theme = 'nibble'
+copyright = 'Association Saint Luc Images'
+capitalizeListTitles = false
+
