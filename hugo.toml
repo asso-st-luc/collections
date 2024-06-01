@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://asso-st-luc.github.io/collections/'
 languageCode = 'en-us'
 title = "La collection de l'association Saint Luc Images"
 theme = 'nibble'
