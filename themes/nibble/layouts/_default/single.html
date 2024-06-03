@@ -5,16 +5,17 @@
     {{with .NextInSection}}
         <a href="{{ .RelPermalink }}">Précédent</a>
     {{end}} 
-    <p>
+    
     {{ range .Resources.ByType "image" }}
     <img src="{{ .RelPermalink }}"  alt="{{ .Title }}" />
     {{ end }}
-    </p>
+    <section>
     {{ .Content }}
+    
     {{with .PrevInSection}}
     <a href="{{ .RelPermalink }}">Suivant</a>
     {{end}}
-    
+</section>
     
     <!--{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}-->
 <!--
