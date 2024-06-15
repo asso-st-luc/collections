@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on La collection de l&#39;association Saint Luc Images</title>
+    <link>http://localhost:1313/collections/tags/</link>
+    <description>Recent content in tags on La collection de l&#39;association Saint Luc Images</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Association Saint Luc Images</copyright>
+    <atom:link href="http://localhost:1313/collections/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
