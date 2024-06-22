@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Association Saint Luc Images</copyright>
-    <lastBuildDate>Fri, 31 May 2024 16:49:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:08:38 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Havre détruit</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</link>
+      <pubDate>Fri, 31 May 2024 16:49:32 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</guid>
+      <description>&lt;p&gt;En septembre 1944, Le cœur du Havre est bombardé.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Le Tableau</title>
       <link>http://localhost:1313/collections/le-tableau-de-choeur/01-le-tableau/</link>
@@ -66,11 +73,60 @@
       <description>Sans cadre, pas d&amp;rsquo;oeuvre achevée. Vous pouvez contribuer à l&amp;rsquo;achèvement de l&amp;rsquo;oeuvre et à la transmission de notre patrimoine culturel par un don, même modeste, à l&amp;rsquo;association Saint Luc. (Plus d&amp;rsquo;informations en cliquant sur le bouton terminer)&#xA;https://www.payasso.fr/saint-luc/dons</description>
     </item>
     <item>
-      <title>Les Origines de la Chapelle Saint Gregoire</title>
-      <link>http://localhost:1313/collections/les-origines-de-la-chapelle-saint-gregoire/le-havre-detruit/</link>
-      <pubDate>Fri, 31 May 2024 16:49:32 +0200</pubDate>
-      <guid>http://localhost:1313/collections/les-origines-de-la-chapelle-saint-gregoire/le-havre-detruit/</guid>
-      <description>&lt;p&gt;En septembre 1944, Le cœur du Havre est bombardé.&lt;/p&gt;</description>
+      <title>20 Le Havre Recontruit</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/20-le-havre-recontruit/</link>
+      <pubDate>Sat, 15 Jun 2024 10:25:25 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/20-le-havre-recontruit/</guid>
+      <description>&lt;p&gt;La guerre terminée, La destruction fait place à la reconstruction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dans l&#39;Eglise</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/30-dans-l-eglise/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/30-dans-l-eglise/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est surtourt sensible à la messe du dimanche&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saint Vincent de Paul</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/40-saint-vincent-de-paul/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/40-saint-vincent-de-paul/</guid>
+      <description>Cela dépend du curé et celui de l&amp;rsquo;église Saint Vincent de Paul tout en faisant les concessions obligatoires, a su garder la majesté du culte grâce à une magnifique chorale grégoriennne. Cependant, les curés ne sont pas immortels et celui-ci était vieux déjà et il finit par mourir. La question de la messe se pose à donc nouveau.</description>
+    </item>
+    <item>
+      <title>50</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/50/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/50/</guid>
+      <description>coucou</description>
+    </item>
+    <item>
+      <title>60</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/60/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/60/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>70</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/70/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/70/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>80</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/80/</link>
+      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>90</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/90/</link>
+      <pubDate>Sat, 22 Jun 2024 12:08:38 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/90/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
