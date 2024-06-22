@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Association Saint Luc Images</copyright>
-    <lastBuildDate>Sat, 15 Jun 2024 10:36:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:08:38 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Havre détruit</title>
+      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</link>
+      <pubDate>Fri, 31 May 2024 16:49:32 +0200</pubDate>
+      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</guid>
+      <description>&lt;p&gt;En septembre 1944, Le cœur du Havre est bombardé.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Le Tableau</title>
       <link>http://localhost:1313/collections/le-tableau-de-choeur/01-le-tableau/</link>
@@ -115,18 +122,11 @@
       <description></description>
     </item>
     <item>
-      <title>80</title>
+      <title>90</title>
       <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/90/</link>
-      <pubDate>Sat, 15 Jun 2024 10:36:47 +0200</pubDate>
+      <pubDate>Sat, 22 Jun 2024 12:08:38 +0200</pubDate>
       <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/90/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Le Havre détruit</title>
-      <link>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</link>
-      <pubDate>Fri, 31 May 2024 16:49:32 +0200</pubDate>
-      <guid>http://localhost:1313/collections/la-chapelle-saint-gregoire/10-le-havre-detruit/</guid>
-      <description>&lt;p&gt;En septembre 1944, Le cœur du Havre est bombardé.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
