@@ -4,12 +4,21 @@
   margin: 0;
   padding: 0;
 }
+.nibble {
+  border: black solid 1px;
+  margin: 0 5% auto;
+}
+header {
+  margin:  auto;
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   /* flex-wrap: wrap; */
   justify-content: space-between;
-  align-items: center;
+  align-items: justify-content;
 }
 
 .section {

@@ -6,18 +6,18 @@
 </head>
 
 <body>
-  
-  <header>
-    {{ partial "header.html" . }}
-  </header>
+  <div class="nibble">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
 
-  
-    {{ block "main" . }}{{ end }}
-  
+    
+      {{ block "main" . }}{{ end }}
+    
 
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
 </body>
 </html>
