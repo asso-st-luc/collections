@@ -1,16 +1,15 @@
 {{ define "main" }}
   {{ .Content }}
+  <div class="container">
       {{ range site.Sections }}
-      <section>
-      <h2>{{ .LinkTitle }}</h2>
-      
-      {{ range .Pages.Limit 1 }}
-          
-              <a href="{{ .RelPermalink }}">{{ .Summary }}</a>
-          
-      </section>  {{ end }}
+      <div class="section">
+        <h2>{{ .LinkTitle }}</h2>
+          {{ range .Pages.Limit 1 }}
+            <a href="{{ .RelPermalink }}">{{ .Summary }}</a>
+          </div>
+        {{ end }}
     
-      
+     <hr>
     {{ end }}
   <!--
   <hr>
@@ -21,5 +20,5 @@
   <p>BundleType : {{.Page.BundleType}}</p>
   <p>site.sections : {{.Site.Sections}}</p>
 -->
-  
+ </div> <!-- container -->
 {{ end }}
