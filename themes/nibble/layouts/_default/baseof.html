@@ -6,16 +6,18 @@
 </head>
 
 <body>
-  <div class="container">
+  
   <header>
     {{ partial "header.html" . }}
   </header>
-  <article>
+
+  
     {{ block "main" . }}{{ end }}
-  </article>
+  
+
   <footer>
     {{ partial "footer.html" . }}
   </footer>
-</div>
+
 </body>
 </html>
