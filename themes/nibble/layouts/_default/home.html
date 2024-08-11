@@ -2,14 +2,21 @@
   {{ .Content }}
   <div class="">
       {{ range site.Sections }}
-      <div class="media">
-        <img class="mr-3" src="https://picsum.photos/100/150" alt="random image">
-        <ldiv class="media-body">{{ .LinkTitle }}</div>
+      <div class="media border border-dark p-3">
+
           {{ range .Pages.Limit 1 }}
+              {{ range .Resources.ByType "image" }}
+              <img class="mr-3" src="{{ .RelPermalink }}" width="100" alt="{{ .Title }}">
+                {{end}}
+            <div class="media-body">
+              <h5 class="mt-1">{{ .LinkTitle }} </h5>
+          <p class="display-5">
             <a href="{{ .RelPermalink }}">{{ .Summary }}</a>
+          </p>
+            
           </div>
-        {{ end }}
-    
+          {{ end }}
+        </div>
      <hr>
     {{ end }}
   <!--
