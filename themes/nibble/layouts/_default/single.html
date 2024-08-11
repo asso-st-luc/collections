@@ -1,24 +1,31 @@
 
 {{ define "main" }}
+    <div class="card-body" >
+        <h2 class="card-title">{{ .Title }}</h1>
     
-   <h1>{{ .Title }}</h1>
-   <nav>
-    {{with .NextInSection}}
-        <a href="{{ .RelPermalink }}">Précédent</a>
-    {{end}} 
+
+    <nav class="border">
+            {{with .NextInSection}}
+                <a href="{{ .RelPermalink }}">Précédent</a>
+            {{end}} 
     </nav>
-    {{ range .Resources.ByType "image" }}
-    <img src="{{ .RelPermalink }}"  alt="{{ .Title }}" />
-    {{ end }}
-    <section>
-    {{ .Content }}
+    <section class="border">       
+            {{ range .Resources.ByType "image" }}
+            <img src="{{ .RelPermalink }}"  width="300" alt="{{ .Title }}" />
+            {{ end }}
+            
+            <div class="card-text">
+                {{ .Content }}
+            </div>
+    </section>
+
     <nav>
-    {{with .PrevInSection}}
-    <a href="{{ .RelPermalink }}">Suivant</a>
-    {{end}}
-</nav>
-</section>
-    
+        {{with .PrevInSection}}
+        <a href="{{ .RelPermalink }}">Suivant</a>
+        {{end}}
+    </nav>
+    </div>        
+       
     <!--{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}-->
 <!--
     <p>template Single.html</p>

@@ -6,15 +6,14 @@
 </head>
 
 <body>
-  <div class="container">
+  <div class="container w-50">
     <header>
       {{ partial "header.html" . }}
     </header>
 
-    
+    <div class="card">
       {{ block "main" . }}{{ end }}
-    
-
+    </div>
     <footer>
       {{ partial "footer.html" . }}
     </footer>
