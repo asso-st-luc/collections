@@ -1,25 +1,24 @@
 
 {{ define "main" }}
+<nav class="font-weight-light float-left">
+    {{with .NextInSection}}
+        <a href="{{ .RelPermalink }}">Précédent</a>
+    {{end}} 
+</nav>
     <div class="card-body" >
-        <h2 class="card-title">{{ .Title }}</h1>
-    
-
-    <nav class="border">
-            {{with .NextInSection}}
-                <a href="{{ .RelPermalink }}">Précédent</a>
-            {{end}} 
-    </nav>
-    <section class="border">       
+   
+    <div class="card-img-top">       
             {{ range .Resources.ByType "image" }}
-            <img src="{{ .RelPermalink }}"  width="300" alt="{{ .Title }}" />
+            <img src="{{ .RelPermalink }}"  width="100%" alt="{{ .Title }}" />
             {{ end }}
-            
-            <div class="card-text">
-                {{ .Content }}
-            </div>
-    </section>
+    </div>
+    <h2 class="card-title text-center">{{ .Title }}</h2>
+    <div class="card-text">
+        {{ .Content }}
+    </div>
+        
 
-    <nav>
+    <nav class="font-weight-light float-right">
         {{with .PrevInSection}}
         <a href="{{ .RelPermalink }}">Suivant</a>
         {{end}}
