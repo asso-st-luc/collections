@@ -1,5 +1,5 @@
 +++
-title = 'obéissance'
+title = 'Obéissance'
 date = 2024-08-28T11:00:14+02:00
 weight = 45
 draft = false
