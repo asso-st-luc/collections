@@ -2,7 +2,7 @@
 title = 'FSSPX'
 date = 2024-08-28T11:00:14+02:00
 weight = 40
-draft = true
+draft = false
 
 +++
 Une douzaine de personnes répondent à l’appel et la prière persévérante du rosaire continue.

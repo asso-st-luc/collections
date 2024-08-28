@@ -2,7 +2,7 @@
 title = 'Catéchisme'
 date = 2024-08-28T11:00:14+02:00
 weight = 35
-draft = true
+draft = false
 
 +++
 Il y a aussi le nouveau catéchisme “Pierres vivantes” qui rend les parents perplexes. 

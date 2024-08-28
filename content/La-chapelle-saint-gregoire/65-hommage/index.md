@@ -2,7 +2,7 @@
 title = 'hommage'
 date = 2024-08-28T11:00:14+02:00
 weight = 65
-draft = true
+draft = false
 
 +++
 L’oratoire de la rue Audry n’est pas la fin de l’aventure, car le voisinage ne voit pas d’un bon oeil ce remue ménage du dimanche matin. C’est une explosion d’hystérie quand une voisine se rend compte en jetant un coup d’oeil dans le garage qu’il s’agit en fait d’une petite chapelle. Depuis lors les malveillances se multiplient à tel point qu’il est envisagé de trouver un nouveau lieu.

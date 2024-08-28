@@ -2,7 +2,7 @@
 title = 'Errance'
 date = 2024-08-28T11:00:14+02:00
 weight = 10
-draft = true
+draft = false
 
 +++
 Petit à petit, la perplexité fait place au doute et le doute pousse à aller voir ailleurs, dans d'autres paroisses. car une grande liberté est accordée aux prêtres et la messe est très différente d'une paroisse à l'autre.

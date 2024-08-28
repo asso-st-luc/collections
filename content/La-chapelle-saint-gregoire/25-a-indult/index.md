@@ -2,7 +2,7 @@
 title = 'A Indult'
 date = 2024-08-28T11:00:14+02:00
 weight = 25
-draft = true
+draft = false
 
 +++
 A cette époque, l’autorité éclésiastique, consciente de la difficulté de certains fidèles à s’adapter aux changements, permet à titre exceptionnel que soit dite une messe dite à Indult. C'est-à-dire une messe en latin. 

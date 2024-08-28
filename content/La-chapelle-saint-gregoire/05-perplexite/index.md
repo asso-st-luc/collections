@@ -2,7 +2,7 @@
 title = 'Perplexité'
 date = 2024-08-28T10:39:21+02:00
 weight = 5
-draft = true
+draft = false
 
 +++
 

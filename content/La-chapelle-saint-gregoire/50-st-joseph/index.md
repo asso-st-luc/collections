@@ -2,7 +2,7 @@
 title = 'Saint Joseph'
 date = 2024-08-28T11:00:14+02:00
 weight = 50
-draft = true
+draft = false
 
 +++
 Indéniablement la situation spirituelle des fidèles s’améliore et cette première victoire ne sera pas la dernière. 

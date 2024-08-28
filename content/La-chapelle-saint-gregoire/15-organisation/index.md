@@ -2,7 +2,7 @@
 title = 'Organisation'
 date = 2024-08-28T11:00:14+02:00
 weight = 15
-draft = true
+draft = false
 
 +++
 A force de se voir tous les dimanches, des contacts sont pris. On se reconnaît et on apprend à se connaître.

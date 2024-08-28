@@ -2,7 +2,7 @@
 title = 'Saint Grégoire'
 date = 2024-08-28T11:00:14+02:00
 weight = 60
-draft = true
+draft = false
 
 +++
 Ce modeste oratoire est dédié à Saint Grégoire le Grand, Pape et admistrateur romain du VIème siècle.

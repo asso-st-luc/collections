@@ -2,7 +2,7 @@
 title = 'Saint Joseph'
 date = 2024-08-28T11:00:14+02:00
 weight = 55
-draft = true
+draft = false
 
 +++
 A partir de là tout va très vite. 
