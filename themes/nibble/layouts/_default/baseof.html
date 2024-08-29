@@ -4,7 +4,15 @@
 <head>
   {{ partial "head.html" . }}
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1Z0SM5Z7LE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1Z0SM5Z7LE');
+</script>
 <body>
   <div class="container m-auto">
     <header>
