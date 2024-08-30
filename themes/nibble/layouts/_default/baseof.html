@@ -4,6 +4,27 @@
 <head>
   {{ partial "head.html" . }}
 </head>
+<script>
+  window.axeptioSettings = {
+    clientId: "66d06f2281970eae15d0638f",
+    cookiesVersion: "asso-st-luc/collections-fr-EU",
+    googleConsentMode: {
+      default: {
+        analytics_storage: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        wait_for_update: 500
+      }
+    }
+  };
+   
+  (function(d, s) {
+    var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
+    e.async = true; e.src = "//static.axept.io/sdk.js";
+    t.parentNode.insertBefore(e, t);
+  })(document, "script");
+  </script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-NSTDM9P5"></script>
 <script>
@@ -37,17 +58,7 @@
     </footer>
   </div>
 </body>
-<script>
-  window.axeptioSettings = {
-    clientId: "66d06f2281970eae15d0638f",
-  };
-   
-  (function(d, s) {
-    var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
-    e.async = true; e.src = "//static.axept.io/sdk.js";
-    t.parentNode.insertBefore(e, t);
-  })(document, "script");
-  </script>
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSTDM9P5"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
