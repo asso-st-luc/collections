@@ -5,10 +5,17 @@ weight = 10
 draft = false
 
 +++
-Petit à petit, la perplexité fait place au doute et le doute pousse à aller voir ailleurs, dans d'autres paroisses. car une grande liberté est accordée aux prêtres et la messe est très différente d'une paroisse à l'autre.
+Petit à petit, la perplexité fait place au doute et le doute pousse à aller voir ailleurs, dans d'autres paroisses. C'est contraignant mais possible, la plupart des familles ont des voitures.
  
-Au départ, les familles sont isolées et pérégrinent pour trouver la paroisse qui n’est pas trop révolutionnaire. 
 
-Dans les années 70, il y a encore de vieux prêtres qui  consilient dignité du culte avec modernité. 
+Nous sommes dans les années 80 et il y a encore de vieux prêtres qui consilient la tradition et la modernité. C'est donc possible.
 
-Au Havre, c’est le cas à l’église Saint Vincent de Paul.
+Au Havre, c’est le cas du curé de l’église Saint Vincent de Paul.
+
+C'est là que les familles qui périgrinent se retrouvent.
+
+***
+>  ### illustration possible :
+> - fronton de l'église Saint Vincent de Paul.
+> - une autre idée : une photo d'une famille entassée danns la voiture des années 80.
+***
