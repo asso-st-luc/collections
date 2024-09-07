@@ -7,7 +7,17 @@ draft = false
 +++
 A force de se voir tous les dimanches, des contacts sont pris. On se reconnaît et on apprend à se connaître.
 
-Cependant, La situation spirituelle est précaire pour ces familles.
+Cependant tous ont conscience que la situation spirituelle est précaire.
 
-Et elles font ce qu'on fait en situation de précarité, elles prient.
+Et elles font ce qu'on fait en situation de précarité, elles se réunissent pour discuter.
+
+Comme il s'agit de précarité spirituelle, les réunions sont accompagnées de prières.
+
+Il nous est parvenu une photo témoignage de convivialité et un témoignage Signé B. Pages attestant la récitation du chapelet de la Vierge dans l'appartement de M. et Mme Senon  les dimanches à 17h.
+
+***
+>  ### illustration possible :
+> - Montage : photo d'archives d'un repas de l'association + extrait du manuscrit de Mme Pages. 
+> - une autre idée : 
+***
  
