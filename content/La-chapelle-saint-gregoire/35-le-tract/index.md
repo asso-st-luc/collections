@@ -5,9 +5,13 @@ weight = 35
 draft = false
 
 +++
-En plus du catéchisme qui laisse à désirer, avant la messe à Indult y a pas de confession et c’est très nécessaire à la vie chrétienne. 
+En plus du catéchisme, avant la messe à Indult, il n'y a pas de confession et c’est très nécessaire à la vie chrétienne. 
 
-C’est Madame Levoin qui un dimanche où les enfants sont particulièrement nombreux décide de distribuer un tract pour faire le point des personnes intéressées par une messe, des confessions et un catéchisme moins centré sur l’Homme, et plus sur Dieu.
+C’est Madame Levoin qui un dimanche où les enfants sont particulièrement nombreux décide de distribuer un tract pour faire le point des personnes intéressées par une messe, des confessions et un catéchisme directement en rapport avec la messe.
 
-
+ ***
+>  ### illustration possible :
+> - ??
+>
+***
  
