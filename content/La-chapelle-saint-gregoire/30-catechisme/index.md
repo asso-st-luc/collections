@@ -5,8 +5,14 @@ weight = 35
 draft = false
 
 +++
-Il y a aussi le nouveau catéchisme “Pierres vivantes” qui rend les parents perplexes. 
+Avec les familles, il y a des enfants. Et les enfants ont besoin de catéchisme.
 
-Les anecdotes ne manquent pas de réflexions enfantines que n’inspirent pas la piété. “Si le Bon Dieu aime tout le monde, le Bon Dieu aime “les blondes", dit un jeune garçon malicieux pour expliquer la jeune fille en maillot de bain découpée dans un magazine pour l’activité de catéchèse.
+Mais cela n'est pas prévu par le diocèse dans le cadre des messes à Indult.
 
- 
+Un nouveau besoin spirituel se fait sentir donc sentir.
+
+ ***
+>  ### illustration possible :
+> - ??
+>
+***
