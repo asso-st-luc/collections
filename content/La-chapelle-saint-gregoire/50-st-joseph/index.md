@@ -5,14 +5,18 @@ weight = 50
 draft = false
 
 +++
-Indéniablement la situation spirituelle des fidèles s’améliore et cette première victoire ne sera pas la dernière. 
+Contre toute attente, ce projet appuyé par Saint Joseph, est agréé par la Providence, puisque la découverte d’un lieu possible est faite le 19 mars (jour de la fête de Saint Joseph) en 1998.
 
-A la stabilité spirituelle, il manque la stabilité matérielle et les fidèles du Havre y sont sensibles. 
+Mais où trouver les moyens d'un tel achat ?
 
-Ils veulent un lieu dédié et se cotisent pour acquérir un lieu transformable en oratoire. 
+C'est alors qu'un bienfaiteur de Rouen se lève et accorde un prêt sans intérêt qui sera rembouser petit à petit par les membres de l'association.
 
-Ce projet est agréé par la Providence et Saint Joseph, puisque la découverte d’un lieu possible est faite le 19 mars (jour de la fête de Saint Joseph) 1998.
-
+l'A.M.E se trouve alors propriétaire d'une espéce de garage sale et sans aération mais qui comporte le volume adapté pour une quarantaine de personnes, suivant les lois de la construction en vigueur de l'époque pour un bâtiment recevant du public.
+***
+>  ### illustration possible :
+> - photo d'archive des sièges
+> - statue de saint Joseph.
+***
 
 
 
