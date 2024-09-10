@@ -17,7 +17,7 @@ Il nous est parvenu une photo, témoignage de convivialité et un manuscrit auto
 
 ***
 >  ### illustration possible :
-> - Montage : photo d'archives d'un repas de l'association + extrait du manuscrit de Mme Pages. 
-> - une autre idée : 
+> - photo d'archives d'un repas de l'association +  
+> - extrait du manuscrit de Mme Pages.
 ***
  
