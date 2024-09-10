@@ -7,9 +7,14 @@ draft = false
 +++
 Une douzaine de personnes répondent à l’appel et la prière persévérante du rosaire continue.
 
-C'est alors que la situation se débloque. M. Levoin président de l'association par l’intermédiaire de M. Plançon (Président de l’association parisienne Crédo) contacte la fraternité Sacerdotale Saint Pie X.
+C'est alors que la situation se débloque. M. Levoin président de l'association  contacte la Fraternité Sacerdotale Saint Pie X.
 
-Cet organisme international forme des prêtres pour dire la messe traditionnelle, donner tous les autres sacrements et enseigner le catéchisme, mais en dehors de l’autorité éclésiastique. 
+Cet organisme international forme des prêtres pour dire la messe traditionnelle, donner les confessions et les autres sacrements, enseigner le catéchisme, mais en dehors de l’autorité éclésiastique.
+
+***
+>  ### illustration possible :
+> - un abbé en soutane souriant, dans une petite voiture. un chapelet sur le retroviseur.
+***
 
 
 
