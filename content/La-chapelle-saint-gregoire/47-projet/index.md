@@ -5,13 +5,19 @@ weight = 47
 draft = false
 
 +++
-Force est de constater qu'à partir des années 90, les efforts de ceux que l'on peut appeler les fidèles ont obtenu un permier succès de la Providence. 
+Force est de constater qu'à partir des années 90, les efforts de ceux que l'on peut appeler maintenant les fidèles ont obtenu de la Providence une amélioration notable.
 
-Cependant, à la stabilité spirituelle, il manque la stabilité matérielle, c'est à dire un lieu dédié pour la messe. 
+Au lieu de la périgranation solitaire à la recherche d'une messe, chez les Levoins, tous les 15 jours la messe est dite, les confessions proposées, le catéchisme enseigné.
 
-Mais comment faire ? Les moyens sont réduits voire inexistants, le temps manque entre le travail, les enfants et tous les soucis de la vie.
+Concrètement cela veut dire que, tous les 15 jours, les meubles de la salle à manger des Levoins sont remplacé par des chaises pliantes, l'autel de fortune sorti du placard et préparé. 
 
-La recherche d'un lieu transformable en oratoire est cependant entreprise en parallèle de la prière persévérante du chapelet. 
+Concrètement cela veut dire pour le prêtre, tous les 15 jours, de prendre sa voiture pour faire le trajet de Mantes-la-Jolie à Harfleur et dire la messe à 18h pour une poignée de fidèles.
+
+Cette situation dure pendant 5 ans.
+
+Car la volonté des fidèles est d'obtenir plus de la Providence.
+
+C'est ainsi qu'en parallèle de la récitation persévérante du chapelet, la recherche d'un lieu transformable en chapelle est décidée. 
 
 ***
 >  ### illustration possible :
