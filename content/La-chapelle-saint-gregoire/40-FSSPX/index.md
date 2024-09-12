@@ -9,7 +9,7 @@ Une douzaine de personnes répondent à l’appel et la prière persévérante d
 
 C'est alors que la situation se débloque. M. Levoin président de l'association  contacte la Fraternité Sacerdotale Saint Pie X.
 
-Cet organisme international forme des prêtres pour dire la messe traditionnelle, donner les confessions et les autres sacrements, enseigner le catéchisme, mais en dehors de l’autorité éclésiastique.
+La Fraternité Sacerdotle Saint Pie X est un mouvement religieux qui forme des prêtres pour dire la messe traditionnelle, donner les confessions et les autres sacrements, enseigner le catéchisme, mais en dehors de l’autorité éclésiastique.
 
 ***
 >  ### illustration possible :
