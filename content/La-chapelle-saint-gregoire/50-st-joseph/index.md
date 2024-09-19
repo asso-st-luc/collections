@@ -9,9 +9,9 @@ Contre toute attente, ce projet appuyé par Saint Joseph, est agréé par la Pro
 
 Mais où trouver les moyens d'un tel achat ?
 
-C'est alors qu'un bienfaiteur de Rouen se lève et accorde un prêt sans intérêt qui sera rembouser petit à petit par les membres de l'association.
+C'est alors qu'un bienfaiteur de Rouen, dont le nom ne nous est pas parvenu accorde un prêt sans intérêt qui sera rembouser petit à petit par les membres de l'association qui le peuvent.
 
-l'A.M.E se trouve alors propriétaire d'une espéce de garage sale et sans aération mais qui comporte le volume adapté pour une quarantaine de personnes, suivant les lois de la construction en vigueur de l'époque pour un bâtiment recevant du public.
+C'est ainsi que l'A.M.E se trouve propriétaire d'une espéce de garage. Ce n'est pas le lieu idéal, mais d'un volume adapté pour accueillir une quarantaine de personnes. C'est plus siffisant pour le nombre de fidèles de l'époque qui ne sont qu'une poignée.
 ***
 >  ### illustration possible :
 > - photo d'archive des sièges
