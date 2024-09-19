@@ -5,12 +5,21 @@ weight = 65
 draft = false
 
 +++
-L’oratoire de la rue Audry n’est pas la fin de l’aventure, car le voisinage ne voit pas d’un bon oeil ce remue ménage du dimanche matin. C’est une explosion d’hystérie quand une voisine se rend compte en jetant un coup d’oeil dans le garage qu’il s’agit en fait d’une petite chapelle. Depuis lors les malveillances se multiplient à tel point qu’il est envisagé de trouver un nouveau lieu.
+C'est ici qu'il faut rendre hommage à ceux qui ont permis à cette nouvelle chapelle de voir le jour.
 
-Et encore providentiellement l’occasion se présente en 2001, une petite usine d’éléctricité du quartier Massillon, rue malherbe est acquise pour être transformée à nouveau en chapelle. La superficie est doublée à cette occasion et des embellissements sont prévus.
+Un hommage à ceux qui ont su attirer par leurs efforts et leurs prières cette bénédiction pour les havrais et les personnes des alentours.
 
-C'est une seconde victoire et la preuve manifeste de la bénédiction du Bon Dieu et de la vertu de nos ainés en particulier M. et Mme Levoin auquels nous voulons rendre ce petit hommage.
+C'est ce que montre l'histoire de la chapelle, une coopération divine et humaine.
 
+En effet, sans les efforts des fidèles, rien n'aurait été fait, sans le secours de la Providence, les efforts auraient été vains.
+
+C'est le contraire d'un projet. Ici pas de conception élaborée et de plan de financement.
+A la place une volonté déterminée et percévérante et un secours, inattendu qui vient en temps opportun.
+***
+>  ### illustration possible :
+> - une petite fleur dans un désert. 
+> - 
+***
  
 
 

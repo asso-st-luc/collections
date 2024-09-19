@@ -5,17 +5,25 @@ weight = 60
 draft = false
 
 +++
-Ce modeste oratoire est dédié à Saint Grégoire le Grand, Pape et admistrateur romain du VIème siècle.
+Ce modeste oratoire est dédié à Saint Grégoire le Grand, Pape et admistrateur de rome au du VIème siècle.
 
-C’est une bénédiction et une victoire pour l’A.M.E. 
+Le tableau du choeur lui est dédié. Une explication de son histoire est donnée [ici] (./collections/le-tableau-de-choeur/01-le-tableau/)
 
-Une bénédiction parce que sans le secours de la Providence rien n’aurait pu voir le jour. Ici pas de plan et des moyens réduits voire insiginifiants.
+Cependant, l’oratoire de la rue Audry n’est que le début de l’aventure.
 
- Et une victoire, car sans l’effort matériel (les membres de l’association ont donné de leur argent certains ont fait de petits prêts) rien n’aurait pu se faire non plus. Il a fallu les deux…
+En effet, le voisinage ne voit pas d’un bon oeil ce remue ménage du dimanche matin, il y a des malveillances et il est envisagé de trouver un nouveau lieu.
 
-A noter également que la plupart des membres signataires des statuts en 1978 sont décédés ou à la retraite au moment de cette première messe. 
+L'occasion se présente en 2001, une petite usine d’éléctricité du quartier Massillon est à vendre et peut être financé par la vente du local de l'oratoire.
 
-S’ils n’ont pas vu de leurs yeux de chair l’accomplissement de leur voeux, ils ont  participé à la joie de cette victoire au Ciel.
+Cette fois une chapelle est aménagé avec des vitraux et une estrade pour l'autel.
+
+C'est le lieu où se trouve aujourd'hui la chapelle Saint Grégoire.
+
+***
+>  ### illustration possible :
+> - le vitrail de Saint Martin-Grégoire.
+> - La chapelle actuelle.
+***
 
 
 
