@@ -11,7 +11,7 @@ Mais où trouver les moyens d'un tel achat ?
 
 C'est alors qu'un bienfaiteur de Rouen, dont le nom ne nous est pas parvenu accorde un prêt sans intérêt qui sera rembouser petit à petit par les membres de l'association qui le peuvent.
 
-C'est ainsi que l'A.M.E se trouve propriétaire d'une espéce de garage. Ce n'est pas le lieu idéal, mais d'un volume adapté pour accueillir une quarantaine de personnes. C'est plus siffisant pour le nombre de fidèles de l'époque qui ne sont qu'une poignée.
+l'A.M.E se trouve propriétaire d'une espéce de garage. Ce n'est pas le lieu idéal, mais le volume est adapté la diligence des fidèles fait merveilles. 
 ***
 >  ### illustration possible :
 > - photo d'archive des sièges

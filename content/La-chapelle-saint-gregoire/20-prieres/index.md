@@ -11,9 +11,7 @@ Le nom de l'association est évocateur : A.M.E (Association Missa Est, qui veut 
 
 La venue d'un prêtre qui dise la messe en latin au Havre est le but avoué de l'association.
 
-A noter que l'association donne une existence légale à ce désir. 
-
-et qu'à partir de là, la persévérance de la prière appelle des changements des changements aussi rapides que surprenants.
+A noter que l'association donne une existence légale à ce désir et qu'à partir de là, la persévérance de la prière appelle des changements, et des changements aussi rapides que surprenants.
 
 
  
