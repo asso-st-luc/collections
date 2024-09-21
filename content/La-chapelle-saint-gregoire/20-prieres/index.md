@@ -5,22 +5,15 @@ weight = 20
 draft = false
 
 +++
-Ces réunions informelles se formalisent et une association est créé. 
+Ces réunions informelles se formalisent et une association est créée. 
 
 Le nom de l'association est évocateur : A.M.E (Association Missa Est, qui veut dire Association pour que la messe en latin soit dite).
 
-C'est donc que pour les membres, la sécurité spirituelle prend la forme de l'assistance à la messe en latin.
+La venue d'un prêtre qui dise la messe en latin au Havre est le but avoué de l'association.
 
-Cette association donne une existence légale au projet et si au départ, il n'y a pas vraiment d'actions concrètes entreprise, la persévérance de la prière appelle des changement dans la situation et des changements rapides.
+A noter que l'association donne une existence légale à ce désir. 
 
-***
->  ### illustration possible :
-> - Procés verbal de l'association.
->
-***
+et qu'à partir de là, la persévérance de la prière appelle des changements des changements aussi rapides que surprenants.
 
-La prière se distingue des formules magiques dans le sens que souvent la première opération est que la situation empire. Et c’est le cas, car le vieux prêtre de Saint Vincent de Paul rend son âme et Dieu.
-
-Et la situation est pire qu’avant.
 
  
