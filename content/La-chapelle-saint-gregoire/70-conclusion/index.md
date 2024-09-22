@@ -11,7 +11,7 @@ A ceux qui le souhaitent, elle offre la sécurité spirituelle que procure la po
 
 Mais quel avenir ?
 
-Personne ne connaît les dessein de la Providence et l'on ne sait pas ce que l'avenir réserve.
+Personne ne connaît les desseins de la Providence et l'on ne sait pas ce que l'avenir réserve.
 
 Cependant, si nous continuons dans la même ligne, les bénédictions pour nous aussi devraient abonder d'une manière sensible.
 
@@ -19,7 +19,7 @@ Et nous devrions voir ce double signe de l'action de la Providence, à la fois d
 
 A ce jour seuls des travaux ont été réalisés, réfections du toit, peinture de l'intérieur de la chapelle.
 
-A voir si bientôt des ex-voto apparaissent.
+A voir si bientôt des ex-voto apparaitront.
 ***
 >  ### illustration possible :
 > - photos travaux avant-après.

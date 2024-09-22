@@ -9,9 +9,13 @@ Contre toute attente, ce projet appuyé par Saint Joseph, est agréé par la Pro
 
 Mais où trouver les moyens d'un tel achat ?
 
-C'est alors qu'un bienfaiteur de Rouen, dont le nom ne nous est pas parvenu accorde un prêt sans intérêt qui sera rembouser petit à petit par les membres de l'association qui le peuvent.
+Les membres de l'association font feu de tout bois. Remboursant un prêt sans intérêt d'un généreux bienfaiteur rouennais, mettant de leur fond propre ou emprentant aux banques. 
 
-l'A.M.E se trouve propriétaire d'une espéce de garage. Ce n'est pas le lieu idéal, mais le volume est adapté la diligence des fidèles fait merveilles. 
+Finalement, la somme est réunie et l'A.M.E se trouve propriétaire d'une espéce de garage. 
+
+Ce n'est pas le lieu idéal, mais le volume est adapté et la diligence des fidèles fait merveilles.
+
+Voyez plutôt l'illustration de l'intérieur, des chaises récupérées de l'éducation nationale et de la statue de saint Joseph d'une chapelle privée d'un chateau breton.
 ***
 >  ### illustration possible :
 > - photo d'archive des sièges

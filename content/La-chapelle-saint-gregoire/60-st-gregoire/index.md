@@ -13,9 +13,9 @@ Cependant, l’oratoire de la rue Audry n’est que le début de l’aventure.
 
 En effet, le voisinage ne voit pas d’un bon oeil ce remue ménage du dimanche matin, il y a des malveillances et il est envisagé de trouver un nouveau lieu.
 
-L'occasion se présente en 2001, une petite usine d’éléctricité du quartier Massillon est à vendre et peut être financé par la vente du local de l'oratoire.
+L'occasion se présente en 2001, une petite usine d’éléctricité du quartier Massillon est à vendre et peut être financée par la vente du local de l'oratoire.
 
-Cette fois une chapelle est aménagé avec des vitraux et une estrade pour l'autel.
+Cette fois une chapelle est aménagée avec des vitraux et une estrade pour l'autel.
 
 C'est le lieu où se trouve aujourd'hui la chapelle Saint Grégoire.
 
