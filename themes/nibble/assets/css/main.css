@@ -1,0 +1,13 @@
+/* Styles pour les écrans larges (large) */
+@media (min-width: 992px) {
+  h2.card-title {
+    font-size: 2.5rem; /* Augmente la taille de la police pour les titres h2 */
+  }
+}
+
+/* Styles pour les écrans moyens (medium) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  h2.card-title {
+    font-size: 2rem; /* Taille de police intermédiaire pour les tablettes */
+  }
+}
