@@ -23,28 +23,6 @@ img {
     margin: 2rem 0; /* Ajoute de l'espace vertical autour des images */
 }
 
-/* Styles pour les écrans larges (large) */
-@media (min-width: 992px) {
-  h2.card-title {
-    font-size: 2.5rem; /* Augmente la taille de la police pour les titres h2 */
-  }
-}
-
-/* Styles pour les écrans moyens (medium) */
-@media (min-width: 768px) and (max-width: 991.98px) {
-  h2.card-title {
-    font-size: 2rem; /* Taille de police intermédiaire pour les tablettes */
-  }
-}
-
-
-/* Styles pour les petits écrans (small) */
-@media (max-width: 767.98px) {
-  h2.card-title {
-    font-size: 1.75rem; /* Taille de police plus petite pour les mobiles */
-  }
-}
-
 /* Figure and Caption Styles */
 figcaption {
     font-size: 0.9rem;
@@ -69,34 +47,32 @@ figcaption {
     }
 }
 
-/* --- Elegant Heading Styles --- */
+/* --- Elegant Heading Styles (Corrected) --- */
 
-h1, h2, h3 {
-    /* Utilise une police plus "design" si disponible, sinon une police sans-serif standard */
+/* Base styles for headings */
+h1, h2, h3, .card-title {
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-weight: 500; /* Un poids de police medium, ni trop gras, ni trop fin */
-    color: #343a40; /* Un gris foncé pour le texte des titres */
-    letter-spacing: -0.5px; /* Resserre très légèrement les lettres pour un look plus compact */
+    font-weight: 500;
+    color: #343a40;
+    letter-spacing: -0.5px;
 }
 
-h1 {
-    font-size: 2.8rem; /* Grande taille pour un impact visuel */
-    font-weight: 700; /* Plus gras pour le titre principal */
-    text-align: left;
+/* Main Page Title Style (was h1, now targeting the specific class) */
+h2.card-title {
+    font-size: 2.8rem !important; /* Utilise !important pour garantir la priorité sur Bootstrap */
+    font-weight: 700 !important;
+    text-align: center; /* Garde le centrage défini dans le HTML */
     margin-top: 1.5rem;
     margin-bottom: 2rem;
-    padding-bottom: 0.75rem; /* Espace sous le titre, à l'intérieur de la bordure */
-    border-bottom: 2px solid #e9ecef; /* Une ligne de séparation subtile */
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid #e9ecef;
 }
 
-h2 {
+/* Subheadings within the content */
+.card-text h2 {
     font-size: 2rem;
     font-weight: 600;
-    margin-top: 3rem; /* Marge supérieure importante pour bien séparer les sections */
+    margin-top: 3rem;
     margin-bottom: 1.5rem;
-}
-
-/* On ajuste les styles pour les titres des cartes pour qu'ils héritent de la nouvelle police */
-h2.card-title {
-    font-family: inherit;
+    border-bottom: none; /* Assure qu'ils n'ont pas la bordure du titre principal */
 }
