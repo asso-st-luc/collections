@@ -68,3 +68,35 @@ figcaption {
         max-width: 50%;
     }
 }
+
+/* --- Elegant Heading Styles --- */
+
+h1, h2, h3 {
+    /* Utilise une police plus "design" si disponible, sinon une police sans-serif standard */
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500; /* Un poids de police medium, ni trop gras, ni trop fin */
+    color: #343a40; /* Un gris foncé pour le texte des titres */
+    letter-spacing: -0.5px; /* Resserre très légèrement les lettres pour un look plus compact */
+}
+
+h1 {
+    font-size: 2.8rem; /* Grande taille pour un impact visuel */
+    font-weight: 700; /* Plus gras pour le titre principal */
+    text-align: left;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0.75rem; /* Espace sous le titre, à l'intérieur de la bordure */
+    border-bottom: 2px solid #e9ecef; /* Une ligne de séparation subtile */
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 3rem; /* Marge supérieure importante pour bien séparer les sections */
+    margin-bottom: 1.5rem;
+}
+
+/* On ajuste les styles pour les titres des cartes pour qu'ils héritent de la nouvelle police */
+h2.card-title {
+    font-family: inherit;
+}
