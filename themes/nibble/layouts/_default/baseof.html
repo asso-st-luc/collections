@@ -4,6 +4,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
+{{ if .IsHome }}
 <script>
   window.axeptioSettings = {
     clientId: "66d06f2281970eae15d0638f",
@@ -25,6 +26,7 @@
     t.parentNode.insertBefore(e, t);
   })(document, "script");
   </script>
+{{ end }}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-NSTDM9P5"></script>
 <script>
