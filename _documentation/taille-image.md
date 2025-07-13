@@ -43,3 +43,23 @@ Pour une image de **1400px de large** :
     *   *Résolution :* **1400 x 2265 pixels**
 
 **Conseil pratique :** Le format paysage est généralement plus adapté au web. Cependant, le plus important reste le cadrage du sujet de l'image. Utilisez le Nombre d'Or comme un guide, pas comme une règle absolue.
+
+ ##The GIMP cecadrage 
+ **Recadrer à une taille précise (1400x865)**
+Ouvre ton image dans GIMP.
+
+**Choisis l'outil de découpage :**
+Menu Outils > Outils de transformation > Découpage
+ou clique sur l’icône de découpage dans la boîte à outils (raccourci clavier : Maj + C).
+
+Dans les options de l’outil (en bas de la boîte à outils) :
+
+Coche Fixé : Taille.
+
+Entres-y 1400 x 865 (assure-toi que l’unité est en pixels).
+
+Clique sur l’image : un cadre de découpe apparaît.
+
+Déplace le cadre à l’endroit souhaité (tu peux aussi le centrer ou le positionner manuellement).
+
+Clique à l’intérieur du cadre ou appuie sur Entrée pour recadrer l’image.
