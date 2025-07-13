@@ -90,3 +90,19 @@ h1.display-4 {
     margin-bottom: 2rem;
     border-bottom: none; /* Ensure no underline like other h1s */
 }
+
+/* Landscape card layout for larger screens */
+@media (min-width: 768px) {
+    .media {
+        display: flex;
+        align-items: flex-start;
+    }
+    .media img {
+        margin: 0 1rem 0 0;
+        width: 150px;
+        height: auto;
+    }
+    .media .media-body {
+        flex: 1;
+    }
+}
