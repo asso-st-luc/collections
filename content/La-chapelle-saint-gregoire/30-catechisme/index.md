@@ -11,8 +11,3 @@ Mais cela n'est pas prévu par le diocèse dans le cadre des messes à Indult.
 
 Un nouveau besoin spirituel se fait donc sentir.
 
- ***
->  ### illustration possible :
-> - ??
->
-***

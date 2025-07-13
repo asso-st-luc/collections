@@ -15,7 +15,6 @@ Finalement, la somme est réunie et l'A.M.E se trouve propriétaire d'une espéc
 
 Ce n'est pas le lieu idéal, mais le volume est adapté et la diligence des fidèles fait merveilles.
 
-Voyez plutôt l'illustration de l'intérieur, des chaises récupérées de l'Education Nationale et de la statue de saint Joseph offerte par un ancien membre de l'association.
 
 
 

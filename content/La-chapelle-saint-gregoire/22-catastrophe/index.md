@@ -5,9 +5,9 @@ weight = 22
 draft = false
 
 +++
-La prière se distingue des formules magiques dans le sens où, souvent, la première opération visible empire la situation.
+Prier est souvent déconcertant, car souvent la situation empire au lieu de s'améliorer, dans un premier temps.
 
- Et c’est le cas, car le vieux prêtre de Saint Vincent de Paul rend son âme et Dieu.
+ Et ça a été le cas ici, car le vieux prêtre de Saint Vincent de Paul rend son âme et Dieu.
 
 Et la situation est pire qu’avant.
 

@@ -15,11 +15,7 @@ En effet, sans les efforts des fidèles, rien n'aurait été fait, sans le secou
 
 C'est le contraire d'un projet. Ici pas de conception élaborée et de plan de financement.
 A la place une volonté déterminée et percévérante et un secours, inattendu qui vient en temps opportun.
-***
->  ### illustration possible :
-> - une petite fleur dans un désert. 
-> - 
-***
+
  
 
 

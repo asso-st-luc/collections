@@ -9,7 +9,7 @@ A force de se voir tous les dimanches, on se reconnaît et l'on apprend à se co
 
 Tous ont conscience que la situation spirituelle est précaire.
 
-Et elles font ce qu'on fait en situation de précarité, elles se réunissent.
+Et comme il s’agit de précarité spirituelle, les réunions sont accompagnées de prières.
 
 Et comme il s'agit de précarité spirituelle, les réunions sont accompagnées de prières.
 

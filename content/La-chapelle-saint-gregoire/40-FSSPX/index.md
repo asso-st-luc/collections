@@ -11,10 +11,6 @@ C'est alors que la situation se débloque. M. Levouin contacte la Fraternité Sa
 
 La Fraternité Sacerdotale Saint Pie X est un mouvement religieux qui forme des prêtres pour dire la messe traditionnelle, donner les confessions et les autres sacrements, enseigner le catéchisme, mais en dehors de l’autorité éclésiastique.
 
-***
->  ### illustration possible :
-> - un abbé en soutane souriant, dans une petite voiture. un chapelet sur le retroviseur.
-***
 
 
 

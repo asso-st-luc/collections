@@ -5,13 +5,9 @@ weight = 25
 draft = false
 
 +++
-Cependant, A cette époque, dans les années 90, (à vérifier)l’autorité éclésiastique, consciente de la difficulté de certains fidèles à s’adapter aux changements, permet à titre exceptionnel que soit dite une messe dite à Indult. C'est-à-dire une messe en latin. 
+Cependant, l’autorité ecclésiastique, consciente de la difficulté de certains fidèles à s’adapter aux changements, permet à titre exceptionnel que soit dite une messe dite à Indult. C’est-à-dire une messe en latin.
 
 Au Havre, une messe à Indult est dite une fois tous les 15 jours chez les Petites Soeurs des Pauvres, avec un certain succès puisque la messe compte près d’une centaine de personnes surtout des familles.
 
-***
->  ### illustration possible :
-> - ??
->
-***
+
  
