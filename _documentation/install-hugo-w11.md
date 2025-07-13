@@ -4,7 +4,7 @@ Cette méthode utilise **Winget**, le gestionnaire de paquets officiel de Window
 
 ### Étape 1 : Ouvrir le Terminal en mode Administrateur
 
-Faites un clic droit sur le menu Démarrer et sélectionnez **Terminal (administrateur)** ou **Windows PowerShell (admin)**.
+Faites un clic droit sur le menu Démarrer et sélectionnez **Terminal (administrateur)**.
 
 ![Ouvrir le terminal en mode admin](https://i.imgur.com/n0v4FqH.png)
 
@@ -63,39 +63,3 @@ Cette option modifie un paramètre global de Windows pour que les applications u
     *   Windows vous demandera de redémarrer pour que le changement prenne effet. C'est indispensable.
 
 Après le redémarrage, les caractères accentués devraient s'afficher correctement dans votre terminal et avec `winget`.
-
----
-
-## Utiliser Hugo dans Visual Studio Code
-
-Une fois Hugo installé, vous pouvez l'intégrer facilement à votre flux de travail dans Visual Studio Code.
-
-### 1. Ouvrir votre projet Hugo dans VS Code
-
-*   Lancez Visual Studio Code.
-*   Allez dans `Fichier` > `Ouvrir le dossier...` (ou `Open Folder...`).
-*   Naviguez jusqu'à la racine de votre projet Hugo (par exemple, `C:\Users\OH\R-D\_hugo\collections-bootStrap`) et cliquez sur `Sélectionner le dossier`.
-
-### 2. Installer des extensions VS Code (recommandé)
-
-Pour une meilleure expérience, installez les extensions suivantes :
-
-*   Ouvrez la vue Extensions (Ctrl+Shift+X).
-*   Recherchez et installez :
-    *   **Hugo** (par Budparr) : Fournit des extraits de code, des complétions et d'autres fonctionnalités spécifiques à Hugo.
-    *   **Markdown All in One** (par Yuya Yamasaki) : Améliore l'édition Markdown (aperçu, raccourcis, etc.).
-
-### 3. Utiliser le terminal intégré
-
-VS Code dispose d'un terminal intégré où vous pouvez exécuter toutes les commandes Hugo :
-
-*   Ouvrez le terminal intégré : `Terminal` > `Nouveau terminal` (ou Ctrl+Shift+`).
-*   Exécutez les commandes Hugo :
-    *   `hugo server` : Démarre le serveur de développement local pour prévisualiser votre site.
-    *   `hugo new posts/my-new-post.md` : Crée un nouveau contenu.
-    *   `hugo` : Génère le site statique dans le dossier `public/`.
-
-### 4. Prévisualiser votre site
-
-*   Après avoir exécuté `hugo server`, Hugo affichera une URL (généralement `http://localhost:1313/`).
-*   Ouvrez cette URL dans votre navigateur web. Les modifications que vous enregistrez dans VS Code seront automatiquement rechargées dans le navigateur.
