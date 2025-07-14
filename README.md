@@ -4,6 +4,10 @@ Ce dépôt contient le code source du site web "La collection de l'association S
 
 Le site est déployé automatiquement sur GitHub Pages via GitHub Actions.
 
+### Répertoire documentation 
+
+Le répertoire _documentation contient des indications pour la taille des images.
+
 ## Démarrage rapide (Local)
 
 Pour faire fonctionner ce projet en local, assurez-vous d'avoir [Hugo](https://gohugo.io/getting-started/installing/) installé.
