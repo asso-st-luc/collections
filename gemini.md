@@ -30,6 +30,8 @@ Ces directives visent à assurer l'homogénéité et la qualité du contenu publ
     *   Le ton est informatif et explicatif.
     *   Utilisez un langage clair et accessible.
     *   Évitez le jargon technique excessif sans explication.
+    *   Chaque page ajoute un élément narratif clair et utile pour la compréhension globale.
+
 
 3.  **Utilisation des Images:**
     *   Utilisez le shortcode `figure` de Hugo pour insérer des images, comme ceci :
