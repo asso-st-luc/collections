@@ -4,7 +4,7 @@
     <div class="row">
         <!-- On medium and large screens, center the content and limit its width -->
         <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-            <nav class="font-weight-light float-left">
+            <nav class="float-left">
                 {{with .NextInSection}}
                     <a href="{{ .RelPermalink }}">Précédent</a>
                 {{end}} 
@@ -22,7 +22,7 @@
             </div>
                 
 
-            <nav class="font-weight-light float-right">
+            <nav class="float-right">
                 {{with .PrevInSection}}
                 <a href="{{ .RelPermalink }}">Suivant</a>
                 {{end}}

@@ -91,6 +91,14 @@ h1.display-4 {
     border-bottom: none; /* Ensure no underline like other h1s */
 }
 
+/* Style for the current section title in the header */
+header h2.display-5 a {
+    color: #343a40; /* Utilise la couleur des titres du thème */
+    text-decoration: none; /* Supprime le soulignement du lien */
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500; /* Poids de police cohérent avec les autres titres */
+}
+
 /* Landscape card layout for larger screens */
 @media (min-width: 768px) {
     .media {
