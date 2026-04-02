@@ -11,6 +11,10 @@ Vous pouvez  contribuer à l'achèvement de l'oeuvre et à la transmission de no
 ~~https://www.payasso.fr/saint-luc/dons~~
 
 
+Voilà ce que nous écrivions en 2024. 
 
-Voilà ce que nous écrivions en 2024. Contre toute attente, en 2026 le magasin [Merciginetleshop](https://www.instagram.com/merciginetteleshop/) a fait un don assez généreux pour que nous puission faire faire l'encadrement à la [Galerie Hamon](https://www.galeriehamon.com/). C'est du beau travail qui peut être vu au 54 bis rue Malherbe au Havre sur rendez-vous en laissant un message avec vos coordonnées au 06.95.49.28.91.
+Contre toute attente, en 2026, le magasin **[Merciginetleshop](https://www.instagram.com/merciginetteleshop/)** a fait un don assez généreux pour que nous puission faire faire l'encadrement à la **[Galerie Hamon](https://www.galeriehamon.com/)**. 
+
+
+C'est du beau travail qui peut être vu au 54 bis rue Malherbe au Havre sur rendez-vous en laissant un message avec vos coordonnées au 06.95.49.28.91.
  
