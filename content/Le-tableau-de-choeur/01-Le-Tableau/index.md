@@ -4,9 +4,8 @@ date = 2024-05-31T10:16:45+02:00
 draft = false
 weight = 11
 +++
- L'Association Saint Luc possède un portrait de Saint Grégoire le Grand peint par Andrea Sacchi.<!--more-->
 
-{{< figure src="/Le-tableau-de-choeur/01-Le-Tableau/01-le-tableau.jpg" caption="Reproduction du portrait de Saint Grégoire le Grand par Andrea Sacchi." align="right" >}}
+ L'Association Saint Luc possède un portrait de Saint Grégoire le Grand peint par Andrea Sacchi.<!--more-->
 
 C'est une reproduction faite au XXIe siècle, d'une peinture du XVIIe siècle d'un pape qui vécut au VIème siècle. 
 
