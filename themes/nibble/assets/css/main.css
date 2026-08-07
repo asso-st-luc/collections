@@ -4,7 +4,7 @@ body {
     font-size: 1.1rem;
     line-height: 1.6;
     color: #212529; /* Un noir pas tout à fait noir, plus doux pour les yeux */
-    background-color: #f8f9fa; /* Un fond très légèrement grisé */
+    background-color: #ffffff; /* Un fond très légèrement grisé #f8f9fa*/
 }
 
 /* Constrain the width of the content for better reading experience */
